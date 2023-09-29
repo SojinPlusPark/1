@@ -1,0 +1,19 @@
+/* . {
+    box-sizing: border-box;
+} */
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem;
+
+}
+
+.nav a:hover {
+    color: rgb(169, 236, 169);
+}
+
+.nav a:active {
+    color: rgb(201, 218, 146);
+}
